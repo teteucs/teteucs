@@ -4,7 +4,7 @@
 
   <ul>
       <li>Sócio @centerlenz </li>
-      <li>trabalho na rede oftalmologica </li>
+      <li>trabalho no mercado oftalmologico </li>
       <li>Curiosidade no mercado de trabalho digital</li>
 
 
