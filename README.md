@@ -7,5 +7,5 @@
 
 
 
-
-nacionalidade: ╰(*°▽°*)╯(*/ω＼*)☆*: .｡. o(≧▽≦)o .｡.:*☆(^///^)(❁´◡`❁) brasil
+-Londrina pr
+opção de contato: @teteucs_ ou Pombo correio
