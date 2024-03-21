@@ -6,8 +6,11 @@
 - sol/lua
 - -hetero
 - pressao constante
-- -observador
+- hack observador
 - uivante
+- apostador tigre / miau
+- ssj5
+ - sempai
 
 <!---
 teteucs/teteucs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
