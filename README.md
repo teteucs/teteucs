@@ -2,6 +2,10 @@
 
 - Oi meu nome é <b>matheus</b> 👍
 
+  <ul>
+      <li>Sócio @centerlenz </li>
+      <li>trabalho na rede oftalmologica </li>
+      <li>Curiosidade no mercado de trabalho digital</li>
 
 
 
